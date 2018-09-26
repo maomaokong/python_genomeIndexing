@@ -1,0 +1,45 @@
+{
+  "gen_bank":"LC068776.1",
+  "gen_data":[
+    {
+      "gen_source_url":"https://www.ncbi.nlm.nih.gov/nuccore/LC068776.1",
+      "locus":"LC068776                 177 bp    DNA     linear   PRI 25-JUL-2015",
+      "definition":"Homo sapiens ABO gene, partial cds, promoter region, allele: B3.",
+      "accession":"LC068776",
+      "version":"LC068776.1",
+      "keywords":".",
+      "sources":[
+        {
+          "name":"Homo sapiens (human)",
+          "organism":"Homo sapiens",
+          "organism_url":"https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9606",
+          "organism_desc":"Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;Catarrhini; Hominidae; Homo."
+        }
+      ],
+      "references":[
+        {
+          "reference":"1",
+          "authors":"Ogasawara,K., Isa,K., Ito,S., Ogiyama,Y. and Kominato,Y.",
+          "title":"Novel promoter mutations in the ABO gene identified from A3 and B3 phenotype individuals",
+          "journal":"Unpublished"
+        },
+        {
+          "reference":"2  (bases 1 to 177)",
+          "authors":"Ogasawara,K., Isa,K. and Sasaki,K.",
+          "title":"Direct Submission",
+          "journal":"Submitted (23-JUL-2015) Contact:Kenichi Ogasawara Japanese Red Cross Central Blood Institute, Research and development; 2-1-67 Tatsumi, Koto-ku, Tokyo 135-8521, Japan"
+        }
+      ],
+      "features":[
+        {
+          "feature":"Location/Qualifiers",
+          "source":"1..177/organism=\"Homo sapiens\"/mol_type=\"genomic DNA\"/db_xref=\"taxon:9606\"",
+          "gene":"82..>177/gene=\"ABO\"",
+          "variation":"82/gene=\"ABO\"/compare=U22302.2/allele=\"B3\"/replace=\"g\"",
+          "cds":"150..>177/gene=\"ABO\"/codon_start=1/protein_id=\"BAS04778.1\"/translation=\"MAEVLRTLA\""
+        }
+      ],
+      "origin":"ggccgcctcccgcgcccctctgtcccctcccgtgttcggcctcgggaagtcggggcggcgggcggcgcgggccgggaggggtcgcctcgggctcaccccgccccagggccgccgggcggaaggcggaggccgagaccagacgcggagccatggccgaggtgttgcggacgctggccg"
+    }
+  ]
+}
